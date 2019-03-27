@@ -1,1 +1,1 @@
-print("Hi")
+The purpose of this project is to analyze employment data to observe employment trends and find the best overall job prospects based on location and industry in the United States 
